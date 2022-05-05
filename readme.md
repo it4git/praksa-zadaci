@@ -41,7 +41,7 @@ git clone https://github.com/it4git/praksa-zadaci.git
 cd praksa-zadaci
 npm install
 ```
-3.  Otvorite neki od zadataka (npr repeater/index.js) i napišite funkciju iz zadatka između bloka RJEŠENJE ZADATKA. 
+3.  Otvorite neki od zadataka (npr repeater/index.js) i napišite funkciju iz zadatka između bloka RJEŠENJE ZADATKA. Skriptu u kojoj rješavate zadatak možete pokrenuti naredbom ```node repeater/index.js ``` ili samo ```node index.js ``` ako vam je trenutna putanja postavljena na folder od pripadajućeg zadatka.
 
 4.  Kako bi bili sigurni da ste pokrili sve slučajeve koji se traže od Vas u zadacima, kreirani su testovi za svaki. Rješenje je validno samo ako prolazi test koji dolazi uz svaki zadatak.
 
