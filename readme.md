@@ -33,12 +33,12 @@ Tekst svakog zadatka nalazi se u njemu odgovarajućem index.js file-u u obliku k
 1.  Klonirajte ovaj repozitorij
 
 ```bash
-git clone 
+git clone https://github.com/it4git/praksa-zadaci.git
 ```
 2.  Prebacite se u klonirani folder ili ga otvorite sa Visual Studio Code-om i pokrenite npm install iz terminala kako bi se instalirali svi potrebni paketi za pokretanje i testiranje zadataka.
 
 ```bash
-cd it4-zadaci
+cd praksa-zadaci
 npm install
 ```
 3.  Otvorite neki od zadataka (npr repeater/index.js) i napišite funkciju iz zadatka između bloka RJEŠENJE ZADATKA. 
@@ -53,7 +53,7 @@ npm run test repeater
 ```
 Nakon pokretanja ove naredbe trebali bi u terminalu vidjeti sljedeće:
 ```bash
-> it4-praksa@1.0.0 test C:\Users\username\it4-zadaci
+> it4-praksa@1.0.0 test C:\Users\username\praksa-zadaci
 > jest "repeater"
 
  PASS  repeater/index.test.js
