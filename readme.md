@@ -70,12 +70,5 @@ Ukoliko svi testovi prođu znači da ste uspješno riješili zadatak i možete k
 
 Kad riješite zadatke kreirajte prazni repozitorij na svojem Githubu a zatim ovaj folder stavite u svoj repozitorij te se javite na mail sa linkom na Vaš Github profil sa riješenim zadacima.
 
-Mailovi:
--   [dario.nedic@it4.ltd](dario.nedic@it4.ltd)
--   [anto.topic@it4.ltd](dario.nedic@it4.ltd)
-
-
-
-
 
 IT4 d.o.o Orašje  - **[`IT4`](https://it4.ltd)**
